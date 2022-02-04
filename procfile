@@ -1,1 +1,1 @@
-web:gunicorn ak:app
+web:gunicorn app:app
